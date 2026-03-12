@@ -1,4 +1,4 @@
-# GigInsurence
+# GigInsurance
 # SafeDeliver AI
 ### Ideate & Know Your Delivery Worker
 
