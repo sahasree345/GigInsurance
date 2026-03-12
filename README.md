@@ -78,7 +78,6 @@ Automatic insurance payout will happen when certain conditions are detected.
 | Hospital visit | ₹3000 support |
 | 3+ days inactivity | Income support |
 
----
 
 ## 6. AI / ML Integration
 
@@ -93,62 +92,48 @@ Machine learning detects suspicious insurance claims.
 ### Risk Area Detection
 AI analyzes accident data to detect high-risk delivery zones.
 
----
 
 ## 7. Platform Choice
-
 We chose a **Mobile Application** because:
 - Delivery workers primarily use smartphones
 - GPS tracking is required
 - Real-time alerts and notifications are easier
 
----
-
 ## 8. Tech Stack
 
 Frontend:
-- React Native
-
+- React(Frontend UI)
 Backend:
-- Node.js
-- Express.js
-
+-Spring Boot
 Database:
-- MongoDB
-
+- MySQL
 AI / ML:
 - Python
 - Scikit-learn
-
 Cloud:
-- Firebase / AWS
-
----
-
+- AWS
+Devops:
+-Docker and Kubernetes
+-Jenkins
 ## 9. Development Plan
+Mobile/Web App (React)
+        │
+Spring Boot Backend API
+        │
+MySQL Database
+        │
+AI Service (Python - Scikit-learn)
 
-| Week | Task |
-|-----|------|
-| Week 1 | Research and idea development |
-| Week 2 | UI prototype design |
-| Week 3 | Backend API development |
-| Week 4 | AI model integration |
-| Week 5 | Testing and deployment |
-
----
+Deployment Pipeline:
+GitHub → Jenkins → Docker → Kubernetes → AWS
 
 ## 10. Future Scope
-
 - Emergency SOS feature
 - Health insurance integration
 - Smart accident detection using sensors
 
----
-
 ## Repository Link
-(To be used for further phases of the project)
 
----
 
 ## Video Presentation
-Link to the 2-minute explanation video will be added here.
+Link to the 2-minute video
