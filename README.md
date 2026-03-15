@@ -144,7 +144,7 @@ GitHub → Jenkins → Docker → Kubernetes → AWS
 - Smart accident detection using sensors
 
 ## Repository Link
-
+https://github.com/sahasree345/GigInsurance.git
 
 ## Video Presentation
 https://drive.google.com/file/d/1_C39YXHZCDiVWqiaRiRVsYz5Kg9FTyWK/view?usp=drive_link
