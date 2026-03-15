@@ -25,11 +25,10 @@ Ravi delivers food late at night. If he meets with an accident, he loses income 
 ### Persona 2
 **Name:** Suresh  
 **Age:** 32  
-**Job:** Amazon Delivery Agent  
+**Job:** Swiggy Delivery Partner
 
 **Problem:**  
-Suresh sometimes faces fake delivery complaints that affect his earnings.
-
+Suresh works long hours to increase earnings and delivering food to the travelling persons. Delivering food to customers who are traveling, for example a passenger on a train ordering food for the next station, can be very risky for delivery workers.
 ---
 
 ## 3. Application Workflow
