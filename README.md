@@ -98,7 +98,19 @@ We chose a **Mobile Application** because:
 - GPS tracking is required
 - Real-time alerts and notifications are easier
 
-## 8. Tech Stack
+## 8.Prototype
+# Phase 1 – Prototype
+
+prototype of the **GigGuard Insurance mobile application** to demonstrate the user interface and workflow of the system.
+The prototype includes:
+- Phone number login with OTP
+- Worker dashboard
+- Premium payment screen
+- Insurance claim submission
+- AI risk alert notifications
+- Profile management for Swiggy and Zomato delivery partners
+
+## 9. Tech Stack
 
 Frontend:
 - React(Frontend UI)
@@ -114,7 +126,7 @@ Cloud:
 Devops:
 -Docker and Kubernetes
 -Jenkins
-## 9. Development Plan
+## 10. Development Plan
 Mobile/Web App (React)
         │
 Spring Boot Backend API
@@ -126,7 +138,7 @@ AI Service (Python - Scikit-learn)
 Deployment Pipeline:
 GitHub → Jenkins → Docker → Kubernetes → AWS
 
-## 10. Future Scope
+## 11. Future Scope
 - Emergency SOS feature
 - Health insurance integration
 - Smart accident detection using sensors
@@ -135,4 +147,4 @@ GitHub → Jenkins → Docker → Kubernetes → AWS
 
 
 ## Video Presentation
-Link to the 2-minute video
+https://drive.google.com/file/d/1_C39YXHZCDiVWqiaRiRVsYz5Kg9FTyWK/view?usp=drive_link
